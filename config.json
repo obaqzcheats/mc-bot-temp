@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "id": "",
+    "dburi":"",
+    "debug": false,
+    "guild": "",
+
+    "embeds": {
+        "title": "project name",
+        "timestamp": false,
+        "color": "#ffffff",
+        "footer": "project name"
+    }
+}
